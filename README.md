@@ -91,9 +91,12 @@ Employee management in a payroll system involves the comprehensive organization 
 ### 3.5 Time Entries ⏰
 Time Entries in a payroll system refer to the records of when an employee starts and ends their work shift, commonly known as clocking in and out. 
 - **Clocking In:** Locate the "Time In" button or function on the top right of the dashboard. Once successful, the system should display a confirmation message indicating you are clocked in.
-- **Clocking Out:** Click on the option to clock out, typically labeled "Time out". This record the end time and it will reflect on the attendance record.
+- **Clocking Out:** Click on the option to clock out, typically labeled "Time out". This records the end time and it will reflect on the attendance record.
 
 ## 4. Technical Information
 
 ### 4.1 Use Case Diagram
 ![Payroll System Use Case  (2)](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/7391ca9e-0d20-41d5-9fa2-b236fcfbab34)
+
+### 4.2 Class Diagram
+
