@@ -13,13 +13,13 @@ This user guide serves as a comprehensive resource for the MotorPH Payroll Syste
 
 ### 📋 HR Department/HR Staff  
 The HR department may have access to specific functionalities within the system, such as:
-     - Adding new employee profiles and maintaining existing ones.
-     - Approving leave requests submitted by employees
-     - Manage Employees’ Attendance Record
+- Adding new employee profiles and maintaining existing ones.
+- Approving leave requests submitted by employees
+- Manage Employees’ Attendance Record
 
 ### 💰 Finance Department/Finance Staff
 The Finance Department holds the most extensive permissions within the payroll system. Their responsibilities include:
-     - Processing payroll, including managing employee profiles, setting pay rates and allowances, and overseeing automated calculations.
-     - Generating payslips and ensuring their timely distribution to employees.
-     -  Overseeing tax calculations and deductions.
-     - Generating reports for accounting and payroll analysis.
+- Processing payroll, including managing employee profiles, setting pay rates and allowances, and overseeing automated calculations.
+- Generating payslips and ensuring their timely distribution to employees.
+-  Overseeing tax calculations and deductions.
+- Generating reports for accounting and payroll analysis.
