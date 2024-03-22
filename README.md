@@ -96,4 +96,4 @@ Time Entries in a payroll system refer to the records of when an employee starts
 ## 4. Technical Information
 
 ### 4.1 Use Case Diagram
-
+![Payroll System Use Case  (2)](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/7391ca9e-0d20-41d5-9fa2-b236fcfbab34)
