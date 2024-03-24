@@ -1,0 +1,4 @@
+"Date Requested","Employee ID","Last Name","First Name","Leave Type","Days","Start Date","End Date","Status","Reason","Remaining Sick Leave","Remaining Vacation Leave","Remaining Emergency Leave"
+"03/16/2024","10007","San Jose","Brad","Sick Leave","2","03/17/2024","03/18/2024","Approved","I'm not feeling well.","15","15","7"
+"03/23/2024","10007","San Jose","Brad","Vacation Leave","2","03/18/2024","03/19/2024","Approved","I'm visiting my parents","13","15","7"
+"03/23/2024","10008","Romualdez","Alice","Sick Leave","2","03/25/2024","03/26/2024","Pending","I'm not feeling well.","15","15","7"
