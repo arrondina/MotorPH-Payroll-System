@@ -80,7 +80,7 @@ This user guide is tailored to cater to all MotorPH Payroll System employees. He
   - [Accessing The System](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#23-accessing-the-system-)
     
 - [Using the Payroll System](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#3-using-the-payroll-system)
-  - [Secure Login Procedures](secure-login-procedures)
+  - [Secure Login Procedures](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#31-secure-login-procedures-)
   - [Salary and Deduction Calculations](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#32-salary-and-deduction-calculations-)
   - [Leave Applications](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#33-leave-applications-%EF%B8%8F)
   - [Employee Data Management](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#34-employee-data-management-)
