@@ -10,11 +10,11 @@
 ### *H2101* GROUP 6
 
 <br/>
-<small>
+
 #### *Aldrich Rosh Rondina*
 #### *Arabella Pabular*
 #### *Patricia Marie Panganiban*
-</small>
+
 
 <br/> <br/> <br/> <br/>
 
@@ -121,3 +121,4 @@ Time Entries in a payroll system refer to the records of when an employee starts
 ### 4.2 Class Diagram
 ![UML class (10)](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/12c0e2cf-c8c8-4fa3-b821-dd8211992abd)
 
+### 4.3 Testing
