@@ -1,7 +1,9 @@
 
 # MotorPH Payroll System Documentation
+🚀 This guide is your go-to resource for understanding and navigating our innovative payroll solution.
 
-### Group Information
+
+
 #### *H2101* GROUP 6
 
 #### *Aldrich Rosh Rondina*
@@ -9,7 +11,9 @@
 #### *Patricia Marie Panganiban*
 
 
-🚀 This guide is your go-to resource for understanding and navigating our innovative payroll solution.
+
+
+
 
 ## 1. Introduction
 
