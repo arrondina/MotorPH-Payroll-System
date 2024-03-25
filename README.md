@@ -1,6 +1,8 @@
 
 # MotorPH Payroll System Documentation
 
+<br/>
+
 > [!Note]
 > This guide is your go-to resource for understanding and navigating our innovative payroll solution.
 
