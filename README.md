@@ -137,6 +137,10 @@ Ensure data security with our robust login procedures, including username and pa
 - **Role-Based Access Control (RBAC):** Once the user’s credentials are verified, the system automatically grants access based on the user designated role (Employee, Finance, HR). This ensures users can only access functionalities relevant to their responsibilities.
 <br/>
 
+![1Login (2)](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/8f276386-b159-4654-b3ad-0b0206fc9d62)
+
+<br/>
+
 ### 3.2 Salary and Deduction Calculations 💰
 The system automates salary calculations based on pre-defined parameters within the employee profile. The Finance Staff utilizes the payroll system to automate salary calculations and deductions for all employees.
 - **Employee Profile:** The system relies on pre-defined data within each employee's profile. This includes factors such as:
@@ -144,6 +148,12 @@ The system automates salary calculations based on pre-defined parameters within 
   - Pay Rate: Hourly rate (if applicable).
   - Overtime Hours: Additional hours worked beyond the standard schedule (if approved by the HR Department).
   - Allowances: Fixed or variable amounts for phone and rice subsidy.
+ <br/>
+ 
+![1Profile2](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/41468cc4-1c51-47ed-aae5-7003e00a8147)
+
+    <br/>
+    
 - **Automated Calculations:** The system automatically calculates gross pay based on the factors mentioned above
 - **Deductions:** Pre-defined deduction rules are applied to the gross pay to determine the net pay. Common deductions include:
   - Tax
