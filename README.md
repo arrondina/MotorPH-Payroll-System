@@ -10,14 +10,19 @@
 <hr> <!-- Horizontal rule for separation -->
 
 
+
 <br/>
+
+<div align="center"> 
   
-### *<div align="center"> H2101 </div>* GROUP 6
+### *H2101* GROUP 6
 
+ </div>
+ 
 <br/>
 
 
-
+<div align="center"> 
   
 ***Aldrich Rosh Rondina***
 
@@ -25,6 +30,7 @@
 
 ***Patricia Marie Panganiban***
 
+ </div>
 
 <br/> <br/> <br/> <br/>
 
