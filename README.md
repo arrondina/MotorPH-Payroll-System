@@ -1,18 +1,21 @@
 
 # MotorPH Payroll System Documentation
 🚀 This guide is your go-to resource for understanding and navigating our innovative payroll solution.
-<br/>
+<br/> <br/>
 
 <hr> <!-- Horizontal rule for separation -->
+<br/>
+<div style="text-align: center;">
 
-
-#### *H2101* GROUP 6
-
+### *H2101* GROUP 6
+<br/>
 #### *Aldrich Rosh Rondina*
 #### *Arabella Pabular*
 #### *Patricia Marie Panganiban*
 
 <br/> <br/> <br/> <br/>
+</div>
+
 <hr> <!-- Horizontal rule for separation -->
 
 
