@@ -9,9 +9,9 @@
 
 <div style="text-align: center;">
   
-### *H2101* GROUP 6
+### <div style="text-align: center;"> *H2101* GROUP 6 </div>
 
-</div>
+
 
 <br/>
 
