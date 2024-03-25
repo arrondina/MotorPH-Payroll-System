@@ -192,7 +192,6 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/> <br/>
 
 **Internal Testing: HR Staff Interface**
-
 <br/>
 
 ![InternalHR](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/e99d7b88-1a19-4928-907b-ef06c1f5c3ec)
@@ -200,7 +199,6 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/> <br/>
 
 **Internal Testing: Finance Staff Interface**
-
 <br/>
 
 ![InternalFinance](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/638a9d96-2a75-4081-ab49-da44a2a59dba)
@@ -208,7 +206,6 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/><br/>
 
 **External Testing: Employee Interface**
-
 <br/>
 
 ![ExternalEmployee](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/c845a148-57d0-4fee-80d8-d61c5a09e7ef)
@@ -216,7 +213,6 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/> <br/>
 
 **External Testing: HR Staff Interface**
-
 <br/>
 
 ![ExternalHR](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/5a8eade9-10e2-45fb-8cd9-d7876e99f8d3)
@@ -224,7 +220,6 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/><br/>
 
 **External Testing: Finance Staff Interface**
-
 <br/>
 
 ![ExternalFinance](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/87fa5cbf-0873-4acc-8686-856e48ec7d08)
