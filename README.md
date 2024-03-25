@@ -7,7 +7,7 @@
 
 <br/>
 
-<div style="text-align: center;">
+
   
 ### <div style="text-align: center;"> *H2101* GROUP 6 </div>
 
