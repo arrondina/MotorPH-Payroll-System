@@ -20,24 +20,15 @@
 
  
 <br/>
-
-
-
   
 ***Aldrich Rosh Rondina***
-
 ***Arabella Pabular***
-
 ***Patricia Marie Panganiban***
-
 
 
 <br/> <br/> <br/> <br/>
 
-
-
 <hr> <!-- Horizontal rule for separation -->
-
 
 
 ## 1. Introduction
