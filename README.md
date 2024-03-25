@@ -152,7 +152,7 @@ The system automates salary calculations based on pre-defined parameters within 
  
 ![1Profile2](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/41468cc4-1c51-47ed-aae5-7003e00a8147)
 
-    <br/>
+ <br/>
     
 - **Automated Calculations:** The system automatically calculates gross pay based on the factors mentioned above
 - **Deductions:** Pre-defined deduction rules are applied to the gross pay to determine the net pay. Common deductions include:
@@ -165,24 +165,45 @@ The system automates salary calculations based on pre-defined parameters within 
 ### 3.3 Leave Applications 🏖️
 The payroll system streamlines leave management by allowing employees to submit leave requests electronically. Here's a general overview of the process:
 - **Employee Leave Request:** Employees can access the leave section within the system. This section will typically display the employee’s leave request records, leave form, and leave balance. In applying for a request, Employees will be required to specify the details such as leave type, leave duration, and reason for leave that briefly explain the reason for the leave request.  Once all details are entered, submit the leave request electronically. The system may automatically route the request to the designated approver (typically the line manager or HR department).
-  - Employees able to track the status of their leave requests within the system. Leave balances is displayed within the system, allowing employees to monitor their remaining leave entitlement.
+  - Employees are able to track the status of their leave requests within the system. Leave balances is displayed within the system, allowing employees to monitor their remaining leave entitlement.
 <br/>
+![1Leave](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/a233b1de-96d6-4081-91d6-92e0ff198c82)
+
+<br/> <br/>
+
 
 - **HR Leave Approval:** The HR department (or designated approver) will receive a notification regarding the submitted leave request.
     - Review and Approval: The approver can access the leave request details, including the employee's profile, leave type, duration, and reason (if provided). Based on departmental needs and staffing requirements, the approver can then:
       - Approve: Grant permission for the leave request.
       - Reject: Deny the request.
     - Employee Notification: The system will automatically notify the employee regarding the approval or rejection status of their leave request. This ensures clear communication and avoids any confusion.
-
-
-### 3.4 Employee Data Management 📋
-Employee management in a payroll system involves the comprehensive organization and oversight of employee-related data and processes within an organization. The HR department is responsible for managing employee-related tasks. 
-- **Adding a New Employee:** Within the Employee Management module, find the option for adding a new employee. This labeled as "Add Employee,"  
-- **Updating Employee Information:** Navigate to the employee's existing record within the Employee Management module. This might involve searching by name or employee ID. Once clicked, the system will display the employee's current information. HR personnel can locate and edit any fields requiring an update. After making changes, save the updates using the designated button “Update”. This update will reflect on the Employee’s Profile Module.  
-- **Deleting Employee Information (Important Note: Deleting employee data should be done with caution):** Locate the employee's record using search functions or by clicking it on the Employee table. The system has a dedicated button or option for “Delete Employee”. The system will prompt for confirmation before proceeding with deletion.
+<br/>
 
 <br/>
 
+### 3.4 Employee Data Management 📋
+Employee management in a payroll system involves the comprehensive organization and oversight of employee-related data and processes within an organization. The HR department is responsible for managing employee-related tasks. 
+- **Adding a New Employee:** Within the Employee Management module, find the option for adding a new employee. This labeled as "Add Employee,".
+<br/>
+
+![1AddEmp](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/110e9d50-704a-4f81-a0ad-7f0b8e34315f)
+
+<br/> <br/>
+    
+- **Updating Employee Information:** Navigate to the employee's existing record within the Employee Management module. This might involve searching by name or employee ID. Once clicked, the system will display the employee's current information. HR personnel can locate and edit any fields requiring an update. After making changes, save the updates using the designated button “Update”. This update will reflect on the Employee’s Profile Module.
+
+<br/>
+
+![1Update](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/c6084767-0f69-4607-b186-b348826d0f82)
+
+<br/> <br/>
+  
+- **Deleting Employee Information (Important Note: Deleting employee data should be done with caution):** Locate the employee's record using search functions or by clicking it on the Employee table. The system has a dedicated button or option for “Delete Employee”. The system will prompt for confirmation before proceeding with deletion.
+<br/>
+
+![1Delete](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/ef6f6526-8456-4d94-8070-1420f57c41c3)
+
+<br/> <br/>
 
 ### 3.5 Time Entries ⏰
 Time Entries in a payroll system refer to the records of when an employee starts and ends their work shift, commonly known as clocking in and out. 
