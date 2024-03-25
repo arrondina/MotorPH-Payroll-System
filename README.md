@@ -1,6 +1,7 @@
 
 # MotorPH Payroll System Documentation
-🚀 This guide is your go-to resource for understanding and navigating our innovative payroll solution.
+> [!Note]
+> 🚀 This guide is your go-to resource for understanding and navigating our innovative payroll solution.
 <br/> <br/>
 
 <hr> <!-- Horizontal rule for separation -->
@@ -11,9 +12,9 @@
 
 <br/>
 
-#### *Aldrich Rosh Rondina*
-#### *Arabella Pabular*
-#### *Patricia Marie Panganiban*
+***Aldrich Rosh Rondina***
+***Arabella Pabular***
+***Patricia Marie Panganiban***
 
 
 <br/> <br/> <br/> <br/>
