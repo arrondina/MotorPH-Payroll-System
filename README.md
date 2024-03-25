@@ -179,7 +179,7 @@ Time Entries in a payroll system refer to the records of when an employee starts
 ### 4.3 Testing
 
 <br/>
-
+![External](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/09483408-2efe-4ac9-8f12-8ad45a41961d)
 <br/>
 
 **Internal Testing: Employee Interface**
@@ -195,11 +195,16 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/>
 
 **External Testing: Employee Interface**
+![ExternalEmployee](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/c845a148-57d0-4fee-80d8-d61c5a09e7ef)
 
 <br/>
 
 **External Testing: HR Staff Interface**
+![ExternalHR](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/5a8eade9-10e2-45fb-8cd9-d7876e99f8d3)
 
 <br/>
 
 **External Testing: Finance Staff Interface**
+![ExternalFinance](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/87fa5cbf-0873-4acc-8686-856e48ec7d08)
+
+<br/> <br/>
