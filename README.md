@@ -213,7 +213,7 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/>
 
 ![TimeIn](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/8c97e5c5-0b0f-40c5-b2b7-446a5f589545)
-07667/35069fba-f859-4696-bea1-dc0d9c1dafee)
+
 
 
 <br/> 
