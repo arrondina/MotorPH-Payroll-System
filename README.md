@@ -195,7 +195,7 @@ However, there is one failed test case related to printing payslips (E13). This 
 
 <br/> <br/>
 
-**Internal Testing: HR Staff Interface**
+### Internal Testing: HR Staff Interface
 In the HR interface Internal test cases provided for the MotorPH Payroll System, most functionalities appear to be working effectively, with the majority of test cases passing successfully. However, two test cases related to attendance management functionality (H08 and H09) have failed. These failures indicate issues with editing and deleting attendance records, respectively. 
 <br/>
 
@@ -203,7 +203,7 @@ In the HR interface Internal test cases provided for the MotorPH Payroll System,
 
 <br/> <br/>
 
-**Internal Testing: Finance Staff Interface**
+### Internal Testing: Finance Staff Interface
 In the Payroll Staff interface test cases provided for the MotorPH Payroll System, all functionalities appear to be working effectively, with all test cases passing successfully.
 <br/>
 
@@ -211,21 +211,21 @@ In the Payroll Staff interface test cases provided for the MotorPH Payroll Syste
 
 <br/><br/>
 
-**External Testing: Employee Interface**
+### External Testing: Employee Interface
 <br/>
 
 ![ExternalEmployee](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/c845a148-57d0-4fee-80d8-d61c5a09e7ef)
 
 <br/> <br/>
 
-**External Testing: HR Staff Interface**
+### External Testing: HR Staff Interface
 <br/>
 
 ![ExternalHR](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/5a8eade9-10e2-45fb-8cd9-d7876e99f8d3)
 
 <br/><br/>
 
-**External Testing: Finance Staff Interface**
+### External Testing: Finance Staff Interface
 <br/>
 
 ![ExternalFinance](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/87fa5cbf-0873-4acc-8686-856e48ec7d08)
