@@ -4,16 +4,25 @@
 <br/> <br/>
 
 <hr> <!-- Horizontal rule for separation -->
+
 <br/>
+
 <div style="text-align: center;">
+  
 ### *H2101* GROUP 6
+
 </div>
+
 <br/>
+
 <div style="text-align: center;">
+  
 #### *Aldrich Rosh Rondina*
 #### *Arabella Pabular*
 #### *Patricia Marie Panganiban*
+
 </div>
+
 <br/> <br/> <br/> <br/>
 
 
