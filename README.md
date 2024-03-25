@@ -3,7 +3,7 @@
 > [!Note]
 > This guide is your go-to resource for understanding and navigating our innovative payroll solution.
 
-<div align="center">
+
   
 <br/> <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
   
-### *H2101* GROUP 6
+### *<div align="center"> H2101 </div>* GROUP 6
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <br/> <br/> <br/> <br/>
 
-</div>
+
 
 <hr> <!-- Horizontal rule for separation -->
 
