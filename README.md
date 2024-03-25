@@ -1,7 +1,9 @@
 
 # MotorPH Payroll System Documentation
 🚀 This guide is your go-to resource for understanding and navigating our innovative payroll solution.
+<br/>
 
+<hr> <!-- Horizontal rule for separation -->
 
 
 #### *H2101* GROUP 6
@@ -10,7 +12,7 @@
 #### *Arabella Pabular*
 #### *Patricia Marie Panganiban*
 
-
+<br/> <br/> <br/> <br/>
 <hr> <!-- Horizontal rule for separation -->
 
 
