@@ -12,9 +12,6 @@ This guide is your go-to resource for understanding and navigating our innovativ
 
 <hr> <!-- Horizontal rule for separation -->
 
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <h1 style="color: #0056b3; margin-bottom: 20px;">MotorPH Payroll System Documentation</h1>
-
 <br/>
 
 
@@ -68,7 +65,7 @@ This user guide is tailored to cater to all MotorPH Payroll System employees. He
 
 **Section Organization:** The user guide is organized into sections, each covering different aspects of the MotorPH Payroll System. You can easily navigate through the guide using the table of contents or by utilizing section headings. 
 
-<b/>
+<br/>
 
 **TABLE OF CONTENTS** 
 
@@ -93,7 +90,7 @@ This user guide is tailored to cater to all MotorPH Payroll System employees. He
   - [Class Diagram](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#42-class-diagram)
   - [Testing](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#43-testing)
 
-<b/>
+<br/>
 
 **Content Overview:** Discover detailed instructions on getting started with the system, using its various features such as secure login procedures, salary and deduction calculations, leave applications, employee data management, and time entries. Each section provides clear guidance on performing specific tasks within the system.
 
@@ -122,7 +119,7 @@ Before diving in, ensure you meet the following prerequisites:
   - HR Staff: (Manuel, 10001)
   - Finance Staff: (Isabella, 10004)
 
-<b/> <b/>
+<br/> <br/>
 
 ## 3. Using The Payroll System 
 Discover how to make the most out of our system:
@@ -170,7 +167,6 @@ Time Entries in a payroll system refer to the records of when an employee starts
 - **Clocking In:** Locate the "Time In" button or function on the top right of the dashboard. Once successful, the system should display a confirmation message indicating you are clocked in.
 - **Clocking Out:** Click on the option to clock out, typically labeled "Time out". This records the end time and it will reflect on the attendance record.
 
-</div>
 
 ## 4. Technical Information
 
@@ -181,3 +177,23 @@ Time Entries in a payroll system refer to the records of when an employee starts
 ![UML class (10)](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/12c0e2cf-c8c8-4fa3-b821-dd8211992abd)
 
 ### 4.3 Testing
+
+<br/>
+
+<br/>
+**Internal Testing: Employee Interface**
+
+<br/>
+**Internal Testing: HR Staff Interface**
+
+<br/>
+**Internal Testing: Finance Staff Interface**
+
+<br/>
+**External Testing: Employee Interface**
+
+<br/>
+**External Testing: HR Staff Interface**
+
+<br/>
+**External Testing: Finance Staff Interface**
