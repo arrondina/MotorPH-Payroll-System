@@ -178,35 +178,55 @@ Time Entries in a payroll system refer to the records of when an employee starts
 
 ### 4.3 Testing
 
-<br/>
+<br/><br/>
 
 ![External](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/09483408-2efe-4ac9-8f12-8ad45a41961d)
 
-<br/>
+<br/><br/>
 
 **Internal Testing: Employee Interface**
-
 <br/>
+
+![InternalEmployee](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/28890303-5edd-4fc7-871a-510d91819b95)
+
+<br/> <br/>
 
 **Internal Testing: HR Staff Interface**
 
 <br/>
 
+![InternalHR](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/e99d7b88-1a19-4928-907b-ef06c1f5c3ec)
+
+<br/> <br/>
+
 **Internal Testing: Finance Staff Interface**
 
 <br/>
 
+![InternalFinance](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/638a9d96-2a75-4081-ab49-da44a2a59dba)
+
+<br/><br/>
+
 **External Testing: Employee Interface**
+
+<br/>
+
 ![ExternalEmployee](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/c845a148-57d0-4fee-80d8-d61c5a09e7ef)
 
-<br/>
+<br/> <br/>
 
 **External Testing: HR Staff Interface**
-![ExternalHR](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/5a8eade9-10e2-45fb-8cd9-d7876e99f8d3)
 
 <br/>
 
+![ExternalHR](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/5a8eade9-10e2-45fb-8cd9-d7876e99f8d3)
+
+<br/><br/>
+
 **External Testing: Finance Staff Interface**
+
+<br/>
+
 ![ExternalFinance](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/87fa5cbf-0873-4acc-8686-856e48ec7d08)
 
 <br/> <br/>
