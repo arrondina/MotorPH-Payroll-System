@@ -14,13 +14,16 @@
 <br/>
 </div>
 
+<div align="center">
 ***Aldrich Rosh Rondina***
+
 ***Arabella Pabular***
+
 ***Patricia Marie Panganiban***
 
 
 <br/> <br/> <br/> <br/>
-
+</div>
 
 <hr> <!-- Horizontal rule for separation -->
 
