@@ -185,6 +185,10 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/><br/>
 
 ### Internal Testing: Employee Interface
+Based on this internal test case, it seems that the Employee Interface within the MotorPH Payroll System is functioning effectively for the most part. The majority of the test cases have passed, indicating that key functionalities such as login, clock in/out, leave management, and salary details are working as expected.
+
+However, there is one failed test case related to printing payslips (E13). This issue needs to be addressed to ensure that employees can access and print their payslips as needed. Additionally, it's essential to investigate the cause of this failure and rectify it promptly to maintain system functionality and user satisfaction.
+
 <br/>
 
 ![InternalEmployee](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/28890303-5edd-4fc7-871a-510d91819b95)
@@ -192,6 +196,7 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/> <br/>
 
 **Internal Testing: HR Staff Interface**
+In the HR interface Internal test cases provided for the MotorPH Payroll System, most functionalities appear to be working effectively, with the majority of test cases passing successfully. However, two test cases related to attendance management functionality (H08 and H09) have failed. These failures indicate issues with editing and deleting attendance records, respectively. 
 <br/>
 
 ![InternalHR](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/e99d7b88-1a19-4928-907b-ef06c1f5c3ec)
@@ -199,6 +204,7 @@ Time Entries in a payroll system refer to the records of when an employee starts
 <br/> <br/>
 
 **Internal Testing: Finance Staff Interface**
+In the Payroll Staff interface test cases provided for the MotorPH Payroll System, all functionalities appear to be working effectively, with all test cases passing successfully.
 <br/>
 
 ![InternalFinance](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/638a9d96-2a75-4081-ab49-da44a2a59dba)
