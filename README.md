@@ -9,19 +9,18 @@
 
 
   
-### <div style="text-align: center;"> *H2101* GROUP 6 </div>
+### *H2101* GROUP 6
 
 
 
 <br/>
 
-<div style="text-align: center;">
+
   
 #### *Aldrich Rosh Rondina*
 #### *Arabella Pabular*
 #### *Patricia Marie Panganiban*
 
-</div>
 
 <br/> <br/> <br/> <br/>
 
