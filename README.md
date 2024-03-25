@@ -59,8 +59,46 @@ The Finance Department holds the most extensive permissions within the payroll s
 -  Overseeing tax calculations and deductions.
 - Generating reports for accounting and payroll analysis.
 
-### Navigating The User Guide
+## 1.2 Navigating The User Guide
 This user guide is tailored to cater to all MotorPH Payroll System employees. Here's a quick overview of what you'll find:
+
+<br/>
+
+**Section Organization:** The user guide is organized into sections, each covering different aspects of the MotorPH Payroll System. You can easily navigate through the guide using the table of contents or by utilizing section headings. 
+
+<b/>
+
+**TABLE OF CONTENTS** 
+
+- [Introduction](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#1-introduction)
+  - [User Roles](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#11-user-roles)
+  - [Navigating The User Guide](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#navigating-the-user-guide)
+    
+- [Getting Started](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#2-getting-started)
+  - [Hardware Prerequisites](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#21-hardware-prerequisites-%EF%B8%8F)
+  - [Software Prerequisites](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#22-software-prerequisites-)
+  - [Accessing The System](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#23-accessing-the-system-)
+    
+- [Using the Payroll System](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#3-using-the-payroll-system)
+  - [Secure Login Procedures](secure-login-procedures)
+  - [Salary and Deduction Calculations](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#32-salary-and-deduction-calculations-)
+  - [Leave Applications](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#33-leave-applications-%EF%B8%8F)
+  - [Employee Data Management](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#34-employee-data-management-)
+  - [Time Entries](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#35-time-entries-)
+    
+- [Technical Information](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#4-technical-information)
+  - [Use Case Diagram](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#41-use-case-diagram)
+  - [Class Diagram](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#42-class-diagram)
+  - [Testing](https://arrondina.github.io/MotorPH-Payroll-System/?fbclid=IwAR1IgIOBNXN-U03ikCyADQkzroTzfHUQzILxgmuySeoc0zQkWrBX9_IEmdA#43-testing)
+
+<b/>
+
+**Content Overview:** Discover detailed instructions on getting started with the system, using its various features such as secure login procedures, salary and deduction calculations, leave applications, employee data management, and time entries. Each section provides clear guidance on performing specific tasks within the system.
+
+**Technical Information:** Gain insights into the technical aspects of the MotorPH Payroll System, including use case diagrams, class diagrams, and information on testing procedures.
+
+
+<br/>
 
 ## 2. Getting Started
 Before diving in, ensure you meet the following prerequisites:
@@ -77,8 +115,12 @@ Before diving in, ensure you meet the following prerequisites:
 
 ### 2.3 Accessing The System 🔒
 - Employee User Account: To be able to access the system
-- User Credentials: This is used to login into the system 
-- Authorization and Access Controls
+- User Credentials: This is used to login into the system (username, password)
+  - Employee: (Brad, 10007)
+  - HR Staff: (Manuel, 10001)
+  - Finance Staff: (Isabella, 10004)
+
+<b/> <b/>
 
 ## 3. Using The Payroll System 
 Discover how to make the most out of our system:
