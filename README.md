@@ -6,21 +6,15 @@
 <hr> <!-- Horizontal rule for separation -->
 
 <br/>
-
-
   
 ### *H2101* GROUP 6
 
-
-
 <br/>
-
-
-  
+<small>
 #### *Aldrich Rosh Rondina*
 #### *Arabella Pabular*
 #### *Patricia Marie Panganiban*
-
+</small>
 
 <br/> <br/> <br/> <br/>
 
