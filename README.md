@@ -2,19 +2,22 @@
 # MotorPH Payroll System Documentation
 > [!Note]
 > This guide is your go-to resource for understanding and navigating our innovative payroll solution.
+
+<div align="center">
+  
 <br/> <br/>
 
 <hr> <!-- Horizontal rule for separation -->
 
-<div align="center">
+
 <br/>
   
 ### *H2101* GROUP 6
 
 <br/>
-</div>
 
-<div align="center">
+
+
   
 ***Aldrich Rosh Rondina***
 
@@ -24,6 +27,7 @@
 
 
 <br/> <br/> <br/> <br/>
+
 </div>
 
 <hr> <!-- Horizontal rule for separation -->
