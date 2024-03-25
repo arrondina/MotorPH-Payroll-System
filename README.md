@@ -167,6 +167,7 @@ The payroll system streamlines leave management by allowing employees to submit 
 - **Employee Leave Request:** Employees can access the leave section within the system. This section will typically display the employee’s leave request records, leave form, and leave balance. In applying for a request, Employees will be required to specify the details such as leave type, leave duration, and reason for leave that briefly explain the reason for the leave request.  Once all details are entered, submit the leave request electronically. The system may automatically route the request to the designated approver (typically the line manager or HR department).
   - Employees are able to track the status of their leave requests within the system. Leave balances is displayed within the system, allowing employees to monitor their remaining leave entitlement.
 <br/>
+
 ![1Leave](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/a233b1de-96d6-4081-91d6-92e0ff198c82)
 
 <br/> <br/>
@@ -208,7 +209,23 @@ Employee management in a payroll system involves the comprehensive organization 
 ### 3.5 Time Entries ⏰
 Time Entries in a payroll system refer to the records of when an employee starts and ends their work shift, commonly known as clocking in and out. 
 - **Clocking In:** Locate the "Time In" button or function on the top right of the dashboard. Once successful, the system should display a confirmation message indicating you are clocked in.
+
+<br/>
+
+![1timeIN](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/09f6c3ce-e1ac-4056-a2da-2abc80a56e95)
+
+![1SuccessfulTimein](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/35069fba-f859-4696-bea1-dc0d9c1dafee)
+
+<br/> 
+
+  
 - **Clocking Out:** Click on the option to clock out, typically labeled "Time out". This records the end time and it will reflect on the attendance record.
+
+<br/>
+
+
+
+<br/><br/>
 
 
 ## 4. Technical Information
