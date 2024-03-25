@@ -212,6 +212,7 @@ In the Payroll Staff interface test cases provided for the MotorPH Payroll Syste
 <br/><br/>
 
 ### External Testing: Employee Interface
+The test cases for the Employee interface have been thoroughly executed, covering functionalities such as login, clock in/out, leave management, and salary details. Overall, the system performed as expected, with all test cases passing successfully. Minor issues were encountered with the printing of payslips, which failed to function. However, the core functionalities related to employee tasks were successfully validated.
 <br/>
 
 ![ExternalEmployee](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/c845a148-57d0-4fee-80d8-d61c5a09e7ef)
@@ -219,6 +220,7 @@ In the Payroll Staff interface test cases provided for the MotorPH Payroll Syste
 <br/> <br/>
 
 ### External Testing: HR Staff Interface
+The HR Staff interface underwent comprehensive testing, encompassing functionalities like login, employee management, attendance management, and leave request management. The system exhibited robust performance, meeting the expected outcomes for most test cases. Notably, issues were identified with the editing of attendance records, indicating a potential area for improvement. Nevertheless, the majority of functionalities were successfully validated, contributing to effective HR management.
 <br/>
 
 ![ExternalHR](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/5a8eade9-10e2-45fb-8cd9-d7876e99f8d3)
@@ -226,6 +228,7 @@ In the Payroll Staff interface test cases provided for the MotorPH Payroll Syste
 <br/><br/>
 
 ### External Testing: Finance Staff Interface
+In the Payroll Staff interface, various functionalities including login, employee details viewing, payroll details viewing, and salary generation were rigorously tested. The system demonstrated reliable performance, with all test cases passing successfully. Both basic and advanced payroll functionalities operated as intended, facilitating efficient payroll management. The logout functionality also functioned without any issues, ensuring secure system access control.
 <br/>
 
 ![ExternalFinance](https://github.com/arrondina/MotorPH-Payroll-System/assets/124907667/87fa5cbf-0873-4acc-8686-856e48ec7d08)
